@@ -44,13 +44,36 @@ To use the SMS Spam Detection model on your own machine, follow these steps:
 ```
 pip install -r requirements.txt.
 ```
++ Ensure Streamlit is Installed
+```
+pip install streamlit
+```
++ To verify the installation, run:
+```
+streamlit --version
+```
+
++ Check Path and Environment
+```
+.\venv\Scripts\activate  # Windows
+source venv/bin/activate  # macOS/Linux
+  ```
++ Use Full Python Path
+ ```
+ python -m streamlit run app.py
+ ```
+
 + Run the model using 
 ```
 streamlit run app.py.
 ```
 + Visit localhost:8501 on your web browser to access the web app.
++ You can now view your Streamlit app in your browser.
+
+  'Local URL: http://localhost:8501'
+  'Network URL: http://192.168.75.151:8501'
 
 ## Contributions
-Contributions to this project are welcome. If you find any issues or have any suggestions for improvement, please open an issue or a pull request on this repository.
+"We warmly welcome contributions to this project! Whether you've discovered an issue or have a brilliant idea for improvement, we encourage you to open an issue or submit a pull request on this repository. Your insights and suggestions are invaluable in helping us grow and enhance this project for everyone!"
 
 
