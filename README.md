@@ -71,7 +71,7 @@ streamlit run app.py.
 + You can now view your Streamlit app in your browser.
 
   'Local URL: http://localhost:8501'
-  'Network URL: http://192.168.75.151:8501'
+  
 
 ## Contributions
 "We warmly welcome contributions to this project! Whether you've discovered an issue or have a brilliant idea for improvement, we encourage you to open an issue or submit a pull request on this repository. Your insights and suggestions are invaluable in helping us grow and enhance this project for everyone!"
